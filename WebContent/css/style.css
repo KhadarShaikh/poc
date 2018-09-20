@@ -1,0 +1,26 @@
+body{
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.label_color{
+	color:white;
+}
+.well_change{
+	padding: 60px !important;
+	background-color: #383838 !important;
+	border-radius: 0px !important;
+	position: absolute;
+	top:125px;left:375px;
+}
+.image_change{
+	padding-bottom: 10px;
+}
+.form_change{
+	padding-left: 30px;
+}
+.font_change{
+	color: white;
+    padding-left: 45px;
+    font-size: 8px;
+}
